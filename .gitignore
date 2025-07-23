@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# R-generated common files
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
