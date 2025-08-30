@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valen Ezekiel Oscar</h1>
 <h3 align="center">A passionate data analyst from Jakarta, Indonesia</h3>
 
-- 🌱 I’m currently learning **Data Analytics, Data Engineering**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 📝 I regularly write articles on [valenezekiel.medium.com](valenezekiel.medium.com)
 
